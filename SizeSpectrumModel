@@ -1,2 +1,0 @@
-##### Load and prepare data
-load("Survdat.RData")
